@@ -1,8 +1,8 @@
 body{
-    
-    background-image:url("th(1).jpg") ;
-    background-repeat:no-repeat;
-    color:rgb(102, 12, 12)
+    background-image: url("imag2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(102, 12, 12);
 }
 h1{
     color: lawngreen;
